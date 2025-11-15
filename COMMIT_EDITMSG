@@ -1,0 +1,9 @@
+Add a contact page and link it to the navigation menu
+
+Introduces a new "Contact" page and updates the navigation to include a link to it. The App.tsx routes are updated to include a route for "/contact", and HeaderSection.tsx is modified to use the `Link` component from `wouter` for navigation.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 51ee0030-4c02-4282-8424-ba2ed5728f07
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Event-Id: 50080206-4c81-4e0b-bd69-92ed8e67f433
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/3e3265e8-e912-45a0-a6fa-2743020919bf/51ee0030-4c02-4282-8424-ba2ed5728f07/W5UKvdz
